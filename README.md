@@ -4,14 +4,16 @@
  src="./assets/display_picture.webp" width="40%"/></p>
 
 
-<p align="center">I'm a designer/engineer.<br/>Lately I've been working mostly on web, but I've been dabbling in design and AI integration/app development!<br>Beyond all that, I like watching films and shooting them (35mm)!<br></p><br/>
+
+<p align="center">I'm a designer-engineer hybrid, equally at home building intuitive interfaces and architecting the systems behind them.<br>Recently, I’ve been focused on the web; experimenting with design systems, interactive experiences, and AI-integrated tools.</p>
+
+<p align="center">Beyond code and pixels, I like watching films and shooting them (35mm)!</p><br/>
 
 <h2>Currently...</h2>
 
-- 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app with Semantic Search and RAG integration.
-- 🌱 I’m currently learning Swift, relearning Java, and mastering Typescript (React).
-- 👯 I’m looking to work on anything that bridges the gap between functionality and thoughtful design!
-
+- 🔭 Currently building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
+- 🌱 Learning **Swift** for macOS, brushing up on **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
+- 👯 I'm currently for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
 <h2>Tools/Frameworks</h2>
 
 <br>
