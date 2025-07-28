@@ -6,13 +6,13 @@
 
 <p align="center">I'm a designer/engineer.<br/>Lately I've been working mostly on web, but I've been dabbling in design and AI integration/app development!<br>Beyond all that, I like watching films and shooting them (35mm)!<br></p><br/>
 
-<summary><h2>Currently...</h2></summary>
+<h2>Currently...</h2>
 
 - 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling application.
 - 🌱 I’m currently learning Swift, relearning Java, and mastering Typescript (React).
 - 👯 I’m looking to work on anything that bridges the gap between functionality and thoughtful design!
 
-<summary><h2>Connect with me!</h2></summary>
+<h2>Connect with me!</h2>
 
 <p align = "center">
  
@@ -20,7 +20,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raffycastillo/)
 </p>
 
-<summary><h2>Tools/Frameworks</h2></summary>
+<h2>Tools/Frameworks</h2>
 
 <br>
 
