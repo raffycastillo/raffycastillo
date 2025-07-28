@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Raffy Castillo! <a href="https://raffycastillo.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hey, I'm Raffy Castillo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="./assets/display_picture.webp" width="40%"/></p>
@@ -48,6 +48,7 @@
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://raffycastillo.com/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raffycastillo/)
+
+<a href="htts://raffycastillo.com" target="_blank" rel="noreferrer noopener"><img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
+<a href="https://www.linkedin.com/in/raffycastillo/" target="_blank" rel="noreferrer noopener"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
