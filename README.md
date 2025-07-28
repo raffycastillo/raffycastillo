@@ -13,7 +13,7 @@
 
 - 🔭 Currently building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
 - 🌱 Learning **Swift** for macOS, brushing up on **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
-- 👯 Looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences; especially systems built around APIs or large-scale data. I’m especially interested in work that blend scalable infrastructure with good design thinking.
+- 👯 I'm currently for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
 <h2>Tools/Frameworks</h2>
 
 <br>
