@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Raffy Castillo! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Raffy Castillo! <a href="https://raffycastillo.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="./assets/display_picture.webp" width="40%"/></p>
@@ -8,17 +8,9 @@
 
 <h2>Currently...</h2>
 
-- 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling application.
+- 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app with Semantic Search and RAG integration.
 - 🌱 I’m currently learning Swift, relearning Java, and mastering Typescript (React).
 - 👯 I’m looking to work on anything that bridges the gap between functionality and thoughtful design!
-
-<h2>Connect with me!</h2>
-
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://raffycastillo.com/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raffycastillo/)
-</p>
 
 <h2>Tools/Frameworks</h2>
 
@@ -51,3 +43,11 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
+
+<h2>Connect with me!</h2>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://raffycastillo.com/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raffycastillo/)
+</p>
