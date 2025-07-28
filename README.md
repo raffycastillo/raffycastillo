@@ -1,7 +1,7 @@
 <h1><p align="center">Hey, I'm Raffy Castillo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center" ><img 
- src="./assets/display_picture.webp" width="40%"/></p>
+<!-- <p align="center" ><img 
+ src="./assets/display_picture.webp" width="40%"/></p> -->
 
 
 
