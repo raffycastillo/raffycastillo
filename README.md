@@ -8,7 +8,7 @@
 
 <h2>Currently...</h2>
 
-- 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling application.
+- 🔭 I'm working on [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app with Semantic Search and RAG integration.
 - 🌱 I’m currently learning Swift, relearning Java, and mastering Typescript (React).
 - 👯 I’m looking to work on anything that bridges the gap between functionality and thoughtful design!
 
