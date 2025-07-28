@@ -7,7 +7,7 @@
 
 <p align="center">I'm a designer-engineer hybrid, equally at home building intuitive interfaces and architecting the systems behind them.<br>Recently, I’ve been focused on the web; experimenting with design systems, interactive experiences, and AI-integrated tools.</p>
 
-<p align="center">Beyond code and pixels, I like watching films and (sort of) shooting them (35mm)!</p><br/>
+<p align="center">Beyond code and pixels, I like watching films and (sort of) shooting them (35mm)!</p>
 
 <h2>Currently...</h2>
 
