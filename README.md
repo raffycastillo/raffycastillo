@@ -1,4 +1,4 @@
-<h1><p align="center">Hey, I'm [Raffy Castillo](https://raffycastillo.com)!</h1></p>
+<h1><p align="center">Hey, I'm <a href="https://raffycastillo.com" target="_blank">Raffy Castillo</a>!</h1></p>
 
 <!-- <p align="center" ><img 
  src="./assets/display_picture.webp" width="40%"/></p> -->
