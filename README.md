@@ -1,4 +1,4 @@
-<h1><p align="center">Hey, I'm Raffy Castillo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hey, I'm <a href="https://raffycastillo.com" target="_blank">Raffy Castillo</a>!</h1></p>
 
 <!-- <p align="center" ><img 
  src="./assets/display_picture.webp" width="40%"/></p> -->
@@ -11,9 +11,11 @@
 
 <h2>Currently...</h2>
 
-- 🔭 Currently building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
-- 🌱 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
-- 👯 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
+🪄 I'm building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
+
+📚 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
+
+💼 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
 
 <h2>Tools/Frameworks</h2>
 
