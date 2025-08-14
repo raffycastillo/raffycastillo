@@ -11,9 +11,9 @@
 
 <h2>Currently...</h2>
 
-- 🔭 Currently building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
-- 🌱 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
-- 👯 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
+🪄 Currently building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
+📚 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
+💼 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
 
 <h2>Tools/Frameworks</h2>
 
