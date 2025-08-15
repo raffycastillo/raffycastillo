@@ -54,6 +54,6 @@
 <p align = "center">
  
 
-<a href="htts://raffycastillo.com" target="_blank" rel="noreferrer noopener"><img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
+<a href="https://raffycastillo.com" target="_blank" rel="noreferrer noopener"><img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 <a href="https://www.linkedin.com/in/raffycastillo/" target="_blank" rel="noreferrer noopener"><img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
