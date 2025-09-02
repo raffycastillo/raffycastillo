@@ -1,4 +1,4 @@
-<h1><p align="center">Hey, I'm <a href="https://raffycastillo.com" target="_blank">Raffy Castillo</a>!</h1></p>
+<h1><p align="center">Hey, I'm <a href="https://raffycastillo.com" target="_blank">Raffy</a>!</h1></p>
 
 <!-- <p align="center" ><img 
  src="./assets/display_picture.webp" width="40%"/></p> -->
@@ -7,15 +7,13 @@
 
 <p align="center">I'm a designer-engineer hybrid, equally at home building intuitive interfaces and architecting the systems behind them.<br>Recently, I’ve been focused on the web; experimenting with design systems, interactive experiences, and AI-integrated tools.</p>
 
-<p align="center">Beyond code and pixels, I like watching films and (sort of) shooting them (35mm)!</p>
+<p align="center">Beyond code and pixels, I like watching film and (sort of) shooting them (35mm)!</p>
 
 <h2>Currently...</h2>
 
-🪄 I'm building [Reflective](https://github.com/orgs/teatime-co/repositories), a native macOS journaling app combining semantic search with RAG (retrieval-augmented generation) to create an introspective, intelligent writing experience.
+🪄 I'm building [Reflective](https://github.com/orgs/teatime-co/repositories), a privacy-first journaling app with on-device AI for semantic reflection and theme discovery.
 
-📚 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
-
-💼 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences. I’m especially interested in work that blend scalable infrastructure with good design thinking.
+📚 Learning **Electron** for web applications and going deep into **TypeScript + React** to write better, more expressive frontend systems.
 
 <h2>Tools/Frameworks</h2>
 
