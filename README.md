@@ -15,8 +15,6 @@
 
 📚 Learning **Swift** for macOS, brushing up on server-side **Java**, and going deep into **TypeScript + React** to write better, more expressive frontend systems.
 
-💼 I'm looking for opportunities on products where thoughtful backend architecture supports delightful, user-first experiences!
-
 <h2>Tools/Frameworks</h2>
 
 <br>
